@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @flam0rozovy
 - 👀 I’m interested in musiic maybe
 - 🌱 I’m currently learning c++
-- 📫 How to reach me telegram: @flam_rozovy
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im speak russian, english well and learning german
 
